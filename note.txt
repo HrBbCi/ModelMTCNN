@@ -1,0 +1,12 @@
+mtcnn:
+--input_shapes=1,300,300,3:1,24,24,3:1,48,48,3
+v3:
+--input_shapes=1,600,800,3:64,24,24,3:16,48,48,3
+v4:
+--input_shapes=1,600,800,3:1,24,24,3:1,48,48,3
+v5
+--input_shapes=1,256,256,3:1,24,24,3:1,48,48,3
+v6:
+--input_shapes=1,512,512,3:1,24,24,3:1,48,48,3
+v8: input_arrays =  pnet/input
+http://qldt.ptit.edu.vn/Default.aspx?page=thoikhoabieu&id=B15DCCN
